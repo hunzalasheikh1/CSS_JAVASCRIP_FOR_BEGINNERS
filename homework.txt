@@ -1,0 +1,1 @@
+1. Make a js file and make 2 varribles and concatenatem,and display the result in the html.
